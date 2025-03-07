@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a passionate developer and creator working on a variet
 
 ## Let's Connect!
 
-- 💬 You can find me on [Discord](https://discord.com/invite/yourdiscordlink).
+- 💬 You can find me on [Discord](https://discord.com/invite/ygDfh2h7bK).
 - 🐦 Follow me on Twitter: [@speed_devil50](https://twitter.com/speed_devil50).
 
 I’m always open to collaboration and discussing new ideas, so feel free to reach out!
