@@ -4,13 +4,17 @@ Welcome to my GitHub! I'm a passionate developer and creator working on a variet
 
 ## About Me
 
+**Short Explaination**
+
+I Am 16 year old Artist/Developer from New York who works on multiple projects, including ChitterSync, Jade, Starlight AI, and Much More, all while consistently working on music and entertainment for many to enjoy
+
 - 💻 **Current Projects:**
   - **ChitterSync**: A community-focused platform aiming to make people's lives easier through ecosystem development.
   - **Gia**: A creator platform for publishing TV series, music, podcasts, and more, with a unique twist on community-building.
   - **Starlight**: An LLM being developed from scratch with capabilities ranging from chat completion to image generation and speech-to-text.
   - **Primal Horizon**: A survival game with a mix of futuristic, post-apocalyptic, and prehistoric elements (coming to both VR and non-VR platforms).
   - **Nebulae**: A next-gen private search engine designed to enhance privacy, real-time analysis, and more.
-  - **Jade**: An AI system designed to enhance community interaction, with a premium subscription for advanced capabilities (JAADE+).
+  - **Jade**: An All in One Bot designed to enhance community interaction, with a premium subscription for advanced capabilities (JAADE+).
 
 - 🎧 Host of **The R7 Talk** podcast.
 - 🚀 I'm focused on **open-source development** and **collaboration**.
