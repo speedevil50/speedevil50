@@ -15,6 +15,8 @@ I Am 16 year old Artist/Developer from New York who works on multiple projects, 
   - **Primal Horizon**: A survival game with a mix of futuristic, post-apocalyptic, and prehistoric elements (coming to both VR and non-VR platforms).
   - **Nebulae**: A next-gen private search engine designed to enhance privacy, real-time analysis, and more.
   - **Jade**: An All in One Bot designed to enhance community interaction, with a premium subscription for advanced capabilities (JAADE+).
+  - **PreCorded**: A discord bot code generator with multilingual support
+  - **PyEnjoy**: A Python code generator for an easier scripting experience
 
 - 🎧 Host of **The R7 Talk** podcast.
 - 🚀 I'm focused on **open-source development** and **collaboration**.
@@ -25,7 +27,7 @@ I Am 16 year old Artist/Developer from New York who works on multiple projects, 
 
 - [**Project Starlight**](https://github.com/r7105/ProjectStarlight): My personal LLM project, with chat completions, image generation, Speach to Text and Text to Speach, Emotional Understanding and tons more features you may find useful!
 - [**NebulaeBrowser**](https://github.com/r7105/NebulaeBrowser): Development of **Nebulae**, my private search engine/Browser with advanced features like **Nebulae Lens** Realtime webpage analyisis, providing summaries, bias detection, and fact-checking to help users evaluate the content they encounter, **Nebulae Echo** A feature that acts like a “time machine” for the web, enabling users to browse past versions of websites, useful for research or revisiting old content (kinda like the wayback machine), **Nebulae Vault** A free, built-in VPN with a no-logs policy, encrypting traffic to enhance privacy while browsing, **Nebulae Shield** Built-in tracker blocker that removes ads, cookies, and browser fingerprinting, ensuring a more private and secure browsing experience, and many more features expected to release by 2026-27.
-- [**ChitterSync**](https://github.com/r7105/ChitterSync): Community-focused platform designed for seamless ecosystem development.
+- [**ChitterSync**](https://r7105prod.pages.dev/): Community-focused platform designed for seamless ecosystem development.
 - [**Jade API**](https://github.com/r7105/JadeAPILib): A Utility for developers to intergrate stuff with the discord bot Jade
 
 ## Skills & Technologies
