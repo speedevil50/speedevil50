@@ -21,7 +21,7 @@ I Am 16 year old Artist/Developer from New York who works on multiple projects, 
 - 🎧 Host of **The R7 Talk** podcast.
 - 🚀 I'm focused on **open-source development** and **collaboration**.
 - 🤖 Working on AI projects using **PyTorch**, **TensorFlow**, and **HuggingFace Transformers**.
-- 🛠️ Building tools for **creators**, **gamers**, **tech enthusiasts** and **Privacy Nerds** to innovate and connect.
+- 🛠️ Building tools for **creators**, **gamers**, **tech enthusiasts**, **privacy nerds**, **future developers** and **regular people** to innovate and connect.
 
 ## Notable Repositories
 
