@@ -48,6 +48,8 @@ I’m always open to collaboration and discussing new ideas, so feel free to rea
 
 🔧 Currently working on **Starlight**, **NebulaeBrowser**, and **ChitterSync** – stay tuned for exciting updates!
 
+Let's all as a community fix the mistakes big tech made! [Visit the Org that will fix this!](https://github.com/r7105)
+
 
 <!--
 **speedevil50/speedevil50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
